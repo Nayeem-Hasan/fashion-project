@@ -561,7 +561,7 @@ html, body {
 	min-width: 285px;
 }
 
-.email-subscribe-form button {
+.email-subscribe-form button{
     background: #e55288;
     color: #fff;
     border: none;
